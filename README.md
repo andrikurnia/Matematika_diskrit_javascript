@@ -1,1 +1,1 @@
-# Matdisk
+# Matematika_diskrit
